@@ -3,4 +3,4 @@
 
 ### Output Obtained
 
-![Test Image 1](employee details.png)
+![Test Image 2](employee details.png)
