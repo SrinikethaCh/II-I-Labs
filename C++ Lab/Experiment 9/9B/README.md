@@ -5,5 +5,5 @@
 
 ### Output Obtained
 
-![Test Image 1](destructorss.png)
+![Test Image 1](destructors.png)
 
